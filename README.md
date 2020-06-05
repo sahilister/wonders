@@ -6,3 +6,4 @@
 - [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/) on Ars Technica  
 - [neal.fun](https://neal.fun/) - i'll leave it here ;)
 - [Assume nobody is going to help you](https://sivers.org/up2you)
+- [Revolution OS](https://en.wikipedia.org/wiki/Revolution_OS) a documentry about the origins of GNU, Linux, open-source and fsf. Available on youtube.
