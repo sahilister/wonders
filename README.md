@@ -9,3 +9,5 @@
 - [Revolution OS](https://en.wikipedia.org/wiki/Revolution_OS) a documentry about the origins of GNU, Linux, open-source and fsf. Available on youtube
 - [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond). Musing about open source around linux. Can be found on internet archieve
 - [Dictionary of Obscure Sorrows](https://www.youtube.com/channel/UCDetdM5XDZD1xrQHDPgEg5w) - life keeps flowing
+- [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ)
+- [dgplug Summer Training’s documentation!](https://summertraining.readthedocs.io/en/latest/index.html) - A true gem to know about "THE CULTURE"
