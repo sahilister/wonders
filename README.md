@@ -11,4 +11,4 @@
 - [Dictionary of Obscure Sorrows](https://www.youtube.com/channel/UCDetdM5XDZD1xrQHDPgEg5w) - life keeps flowing
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz)
 - [dgplug Summer Training’s documentation!](https://summertraining.readthedocs.io/en/latest/index.html) - A true gem to know about "THE CULTURE"
-- [FreedomBox - home server](https://freedomboxfoundation.org/)
+- [FreedomBox](https://freedomboxfoundation.org/)  - cheap home server os for single board computers
