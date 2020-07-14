@@ -12,3 +12,4 @@
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz)
 - [dgplug Summer Training’s documentation!](https://summertraining.readthedocs.io/en/latest/index.html) - A true gem to know about "THE CULTURE"
 - [FreedomBox](https://freedomboxfoundation.org/)  - cheap home server os for single board computers
+- [switching.software](https://switching.software/) - privacy-conscious alternatives to well-known software
